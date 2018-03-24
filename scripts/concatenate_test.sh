@@ -1,0 +1,1 @@
+find conll-2012/test/ -name '*gold_conll' -exec cat {} \; > full_test.gold_conll

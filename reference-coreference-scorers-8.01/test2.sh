@@ -1,0 +1,1 @@
+perl scorer.pl all ../conll-2012/dev/english/annotations/tc/ch/00/ch_0010.v4_auto_conll ../out/tc/ch/00/ch_0010.out_conll none

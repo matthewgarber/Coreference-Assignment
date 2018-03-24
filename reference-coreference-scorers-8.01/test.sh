@@ -1,0 +1,1 @@
+perl scorer.pl muc ../conll-2012/train/english/annotations/tc/ch/00/ch_0001.v4_auto_conll ../test.txt

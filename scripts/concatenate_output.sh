@@ -1,0 +1,1 @@
+find out/ -name '*.out_conll' -exec cat {} \; > full_output.out_conll

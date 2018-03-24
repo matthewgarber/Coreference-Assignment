@@ -1,0 +1,1 @@
+perl scorer.pl all ../full.auto_conll ../full.out_conll none
