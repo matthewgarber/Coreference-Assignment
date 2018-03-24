@@ -1,7 +1,6 @@
 # Coreference-Assignment
-Name: Matthew Garber
-Term: Spring 2017
-Class: Information Extraction
+Term: Spring 2017  
+Class: Information Extraction  
 Assignment #3: Coreference Resolution
 
 To run the full pipeline program:
